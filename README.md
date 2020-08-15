@@ -1,1 +1,2 @@
-# Performance-Analysis-of-Mental-and-EmotionalStates-Classification-using-EEG-Signals
+# Performance Analysis of Mental and Emotional States Classification using EEG Signals
+
